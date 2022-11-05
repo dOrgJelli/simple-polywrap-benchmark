@@ -1,0 +1,6 @@
+format: 0.2.0
+project:
+  name: js-client-benchmark
+  type: app/typescript
+source:
+  schema: ./schema.graphql

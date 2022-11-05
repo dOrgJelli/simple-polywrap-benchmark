@@ -1,0 +1,3 @@
+type Module {
+    add(a: UInt32!, b: UInt32!): UInt32!
+}
